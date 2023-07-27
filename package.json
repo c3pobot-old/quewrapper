@@ -1,0 +1,23 @@
+{
+  "name": "quewrapper",
+  "version": "1.0.0",
+  "description": "wrapper for bull que",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/c3po-modules/quewrapper.git"
+  },
+  "author": "scuba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/c3po-modules/quewrapper/issues"
+  },
+  "homepage": "https://gitlab.com/c3po-modules/quewrapper#readme",
+  "dependencies": {
+    "bull": "^4.8.5",
+    "uuid": "^8.3.2"
+  }
+}
